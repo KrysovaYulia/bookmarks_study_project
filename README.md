@@ -1,3 +1,5 @@
+# Django-project. Social Website
+--
 # Форма входа на страницу
 ![изображение](https://github.com/user-attachments/assets/6b954668-dfec-4241-a510-18d15f6abc2f)
 
